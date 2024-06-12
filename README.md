@@ -1,6 +1,6 @@
 # File Automator
 
-File Automator is a Python-based automation tool designed to help you keep your Downloads folder organized. By monitoring the Downloads directory, this script automatically moves files into appropriate subdirectories based on their file extensions. This ensures that your files are neatly categorized without manual intervention.
+File Automator is a Python-based automation tool designed to help you keep your Downloads folder organised. By monitoring the Downloads directory, this script automatically moves files into appropriate subdirectories based on their file extensions. This ensures that your files are neatly categorized without manual intervention.
 
 ## Table of Contents
 
