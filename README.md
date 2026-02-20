@@ -42,13 +42,13 @@ This dekstop cleaner is a Python-based automation tool designed to help you keep
    Open `file_automator.py` in a text editor and ensure the source and destination directories are set to your desired paths:
 
    ```python
-   source_dir = "/Users/jamieclements/Downloads"  # Directory to watch for changes
-   sfx_dir = "/Users/jamieclements/Downloads/sounds"
-   music_dir = "/Users/jamieclements/Downloads/music"
-   video_dir = "/Users/jamieclements/Downloads/videos"
-   image_dir = "/Users/jamieclements/Downloads/images"
-   document_dir = "/Users/jamieclements/Downloads/documents"
-   code_dir = "/Users/jamieclements/Downloads/code"
+   source_dir = "/Users/username/Downloads"  # Directory to watch for changes
+   sfx_dir = "/Users/username/Downloads/sounds"
+   music_dir = "/Users/username/Downloads/music"
+   video_dir = "/Users/username/Downloads/videos"
+   image_dir = "/Users/username/Downloads/images"
+   document_dir = "/Users/username/Downloads/documents"
+   code_dir = "/Users/username/Downloads/code"
    ```
 
 2. **Run the Script in the Background:**
